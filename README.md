@@ -114,13 +114,13 @@ Basado en:
 Instituto Geográfico Nacional Tommy Guardia (IGNTG)
 Esri Panamá
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 Esta obra está bajo una
-[Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
+[Licencia Creative Commons Atribución/Reconocimiento-NoComercial 4.0 Internacional][cc-by-nc].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY 4.0][cc-by-nc-image]][cc-by-nc]
 
-[cc-by]: https://creativecommons.org/licenses/by/4.0/deed.es
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/deed.es
+[cc-by-nc-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY%20NC%204.0-lightgrey.svg
