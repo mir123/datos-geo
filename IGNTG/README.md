@@ -2,10 +2,12 @@
 
 Combinación de las capas de ríos y quebradas de Panamá publicadas por el Instituto Geográfico Nacional Tommy Guardia. Bajadas en agosto de 2022.
 
+[Mi artículo](http://mirrodriguezlombardo.com/nueva-cartografia.html) sobre estos datos.
+
+Fuente:
+
 https://services6.arcgis.com/9RMv4QT4fyJedc5h/ArcGIS/rest/services/MAPA_BASE_NACIONAL_25K___DATOS_WFL1/FeatureServer
 https://www.arcgis.com/home/item.html?id=f201a67b28204073848904dce1076334
-
-(Mi artículo)[http://mirrodriguezlombardo.com/nueva-cartografia.html] sobre estos datos.
 
 Crédito:
 
