@@ -2,13 +2,13 @@
 
 La capa de ríos y quebradas de Panamá (IGNTG, 2022) con los torrentes clasificados de pequeños a grandes. Se indican los valores usando varios sistemas (Strahler Shreve, Scheidegger y Drwal) según lo producido por el módulo v.stream.order de GRASS.
 
-Esta es una versión bastante inicial, sin un control de calidad exhaustivo. **No doy absolutamente ninguna garantía sobre su nivel de precisión**.
+Estos datos se ofrecen con fines experimentales y para que ojalá alguien se motive a preparar y compartir una versión más acabada. Esta es una versión bastante inicial que contiene múltiples errores, especialmente en sitios donde ocurren divergencias de los ríos, lo cual provoca valores incorrectos. No hay control de calidad exhaustivo. **No doy absolutamente ninguna garantía sobre su nivel de precisión ni sobre cualquier uso que le des a esta capa**. ¡No quiero queja!
 
 Con esta capa puedes hacer mapas con distintos grosores según el órden del río:
 
 ![](/rios_azuero.jpeg)
 
-Escríbeme a mir@almanaqueazul.org para dudas y quejas.
+Escríbeme a mir@almanaqueazul.org para dudas y preguntas.
 
 ## Datos técnicos
 
@@ -115,7 +115,7 @@ v.stream.order --overwrite --verbose input=rios_1@PERMANENT points=outlets_1@PER
 Mir Rodríguez Lombardo, Fundación Almanaque Azul
 
 Basado en:
-[MAPA*BASE_NACIONAL_25K\*\*\_DATOS_WFL1](https://services6.arcgis.com/9RMv4QT4fyJedc5h/ArcGIS/rest/services/MAPA_BASE_NACIONAL_25K*\*\*DATOS_WFL1/FeatureServer) (capas Quebradas y Rios)
+[MAPA\*BASE_NACIONAL_25K\*\*\_DATOS_WFL1](https://services6.arcgis.com/9RMv4QT4fyJedc5h/ArcGIS/rest/services/MAPA_BASE_NACIONAL_25K***DATOS_WFL1/FeatureServer) (capas Quebradas y Rios)
 
 Instituto Geográfico Nacional Tommy Guardia (IGNTG)
 Esri Panamá
