@@ -2,6 +2,8 @@
 
 La capa de ríos y quebradas de Panamá (IGNTG, 2022) con los torrentes clasificados de pequeños a grandes. Se indican los valores usando varios sistemas (Strahler Shreve, Scheidegger y Drwal) según lo producido por el módulo v.stream.order de GRASS.
 
+También comparto la capa de puntos de las bocas de los ríos, necesaria para correr el algoritmo de clasificación (ver abajo).
+
 Estos datos se ofrecen con fines experimentales y para que ojalá alguien se motive a preparar y compartir una versión más acabada. Esta es una versión bastante inicial que contiene múltiples errores, especialmente en sitios donde ocurren divergencias de los ríos, lo cual provoca valores incorrectos. No hay control de calidad exhaustivo. **No doy absolutamente ninguna garantía sobre su nivel de precisión ni sobre cualquier uso que le des a esta capa**. ¡No quiero queja!
 
 Con esta capa puedes hacer mapas con distintos grosores según el órden del río:
