@@ -2,7 +2,9 @@
 
 La capa de ríos y quebradas de Panamá (IGNTG, 2022) con los torrentes clasificados de pequeños a grandes. Se indican los valores usando varios sistemas (Strahler Shreve, Scheidegger y Drwal) según lo producido por el módulo v.stream.order de GRASS.
 
-Con esta capa puedes hacer mapas que se ven así:
+Con esta capa puedes hacer mapas con distintos grosores según el órden del río:
+
+![](/rios_azuero.jpeg)
 
 ## Datos técnicos
 
